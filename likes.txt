@@ -1,2 +1,3 @@
 let likes = "likes"
 let moreLikes = "moreLikes"
+let moreLikes2 = "moreLikes2"
